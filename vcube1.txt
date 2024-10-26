@@ -1,3 +1,7 @@
 this is first line
 this is second file
+<<<<<<< HEAD
 this is third line
+=======
+tjis is third line
+>>>>>>> 406e13141060fb1aad3248143b07adcaf9238c5f
